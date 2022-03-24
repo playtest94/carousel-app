@@ -1,0 +1,6 @@
+export const OUTTER_TITLE_HEIGHT = 40;
+export const CAROUSEL_VERTICAL_PADDING = 10;
+export const THUMB_BASE_WIDTH_PERCENT = 75;
+export const POSTER_BASE_WIDTH_PERCENT = 60;
+export const THUMB_HEIGHT_PERCENT = 74;
+export const POSTER_HEIGHT_PERCENT = 150;
